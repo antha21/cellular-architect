@@ -21,16 +21,6 @@ To guarantee thermodynamic conservation of energy throughout the spatial ecosyst
 
 $$\frac{dS}{dt}=-\frac{\beta I S}{N} \quad \quad \frac{dI}{dt}=\frac{\beta I S}{N}-\gamma I \quad \quad \frac{dR}{dt}=\gamma I$$
 
-$$
-\begin{aligned}
-\frac{dS}{dt} &= -\frac{\beta IS}{N}
-\qquad\qquad
-\frac{dI}{dt} &= \frac{\beta IS}{N} - \gamma I
-\qquad\qquad
-\frac{dR}{dt} &= \gamma I
-\end{aligned}
-$$
-
 The $\beta$ (infection probability) and $\gamma$ (recovery rate) variables directly drive localized cellular state transitions based on the density of infected neighbors.
 
 ### Wildfire Percolation (`wildfire_percolation.py`)
