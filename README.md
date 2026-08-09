@@ -35,8 +35,7 @@ A delicate statistical balance between fractional tree growth and rapid ignition
 * **Function:** A pure implementation of Conway's Game of Life, demonstrating how complex structures (oscillators, gliders, still lifes) emerge from simple localized rules.
 * **Mathematics:** Utilizes pure, discrete Boolean logic without continuous derivatives:
 
-$$C_{t+1}=\begin{cases}1&\text{if }N \in B \lor (C_t=1 \land N \in S)\
-          \0&\text{otherwise}\end{cases}$$
+$$C_{t+1}=\begin{cases}1&\text{if }N \in B \lor (C_t=1 \land N \in S)\\\\0&\text{otherwise}\end{cases}$$
 
 Calculates surviving ($S$) or born ($B$) cells strictly based on their total neighboring matrix sum ($N$).
 
