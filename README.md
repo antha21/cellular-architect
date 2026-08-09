@@ -23,9 +23,9 @@ $$\frac{dS}{dt}=-\frac{\beta I S}{N} \quad \quad \frac{dI}{dt}=\frac{\beta I S}{
 
 $$
 \begin{aligned}
-\frac{dS}{dt} &= -\frac{\beta IS}{N},\\
-\frac{dI}{dt} &= \frac{\beta IS}{N} - \gamma I,\\
-\frac{dR}{dt} &= \gamma I.
+\frac{dS}{dt} &= -\frac{\beta IS}{N},\\[8pt]
+\frac{dI}{dt} &= \frac{\beta IS}{N} - \gamma I,\\[8pt]
+\frac{dR}{dt} &= \gamma I
 \end{aligned}
 $$
 
