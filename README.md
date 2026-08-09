@@ -55,9 +55,10 @@ Calculates downward displacement vectors for mass gravity, overriding physical s
 
 Want to interact with these systems directly, mix cell types, and trigger environmental disasters? 
 
-The core math of these Python scripts originated from a fully interactive, web-based simulation environment. You can load up **`Cellular_Architect_2.html`** in any modern web browser to access the graphical sandbox. 
+Then check out the full interactive open sandbox experience of Cellular Architect. 
+**[Link to Live Project Website]** (https://anthony-artino-portfolio.netlify.app/projects/games/cellular_architect/cellular_architect)
 
-**Features in the HTML Sandbox:**
+**Main Features in the HTML Sandbox:**
 *   **Live Drawing Tools:** Draw, erase, and paint materials dynamically while the simulations are running.
 *   **Display Lenses:** Toggle overlay lenses to visualize the hidden floating-point mechanics, including the *Energy Heatmap* and *Age Map*.
 *   **Live Parameters:** Tweak variables like infection rates, animal breeding chances, and wildfire spread probabilities in real-time.
