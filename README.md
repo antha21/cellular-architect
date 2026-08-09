@@ -63,7 +63,7 @@ Want to interact with these systems directly, mix cell types, and trigger enviro
 
 Then check out the full interactive open sandbox experience of Cellular Architect where you can rule the grid. 
 
-**[Link to Live Project Website]** (https://anthony-artino-portfolio.netlify.app/projects/games/cellular_architect/cellular_architect)
+**[Link to Live Project Website]** [Cellular Architect](https://anthony-artino-portfolio.netlify.app/projects/games/cellular_architect/cellular_architect)
 
 **Main Features in the HTML Sandbox:**
 *   **Live Drawing Tools:** Draw, erase, and paint materials dynamically while the simulations are running.
