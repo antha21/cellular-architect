@@ -1,5 +1,9 @@
 # Cellular Architect
 
+**Author:** Anthony Artino
+
+## Project Overview
+
 A collection of high-performance simulation engines mapping continuous differential equations into discrete spatial matrices. This repository contains standalone Python scripts for various cellular automata and complex systems, utilizing `numpy` for matrix calculations and `matplotlib` for rendering.
 
 ---
