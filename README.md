@@ -8,7 +8,7 @@ These simulations map continuous Partial and Ordinary Differential Equations int
 
 ### Ecosystem Dynamics
 Predator-prey interactions form non-linear harmonic oscillators via Lotka-Volterra equations:
-$$ \frac{dx}{dt} = \alpha x - \beta xy \quad \quad \frac{dy}{dt} = \delta xy - \gamma y $$
+$$ (\frac{dx}{dt} = \alpha x - \beta xy \quad \quad \frac{dy}{dt} = \delta xy - \gamma y )$$
 Floating-point arrays hold mass across discrete grid movements to guarantee conservation of energy.
 
 ### Epidemic Spread
