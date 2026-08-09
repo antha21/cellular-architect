@@ -55,7 +55,8 @@ Calculates downward displacement vectors for mass gravity, overriding physical s
 
 Want to interact with these systems directly, mix cell types, and trigger environmental disasters? 
 
-Then check out the full interactive open sandbox experience of Cellular Architect. 
+Then check out the full interactive open sandbox experience of Cellular Architect where you can rule the grid. 
+
 **[Link to Live Project Website]** (https://anthony-artino-portfolio.netlify.app/projects/games/cellular_architect/cellular_architect)
 
 **Main Features in the HTML Sandbox:**
