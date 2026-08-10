@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This is a collection of high-performance simulation engines that map out continuous Ordinary Differential Equations (ODESs) and Partial Differential Equations (PDEs) into discrete spatial matrices. This repository contains standalone Python scripts for various cellular automata and complex systems, utilizing `numpy` for matrix calculations and `matplotlib` for rendering.
+This is a collection of high-performance simulation engines that map out continuous Ordinary Differential Equations (ODEs) and Partial Differential Equations (PDEs) into discrete spatial matrices. This repository contains standalone Python scripts for various cellular automata and complex systems, utilizing `numpy` for matrix calculations and `matplotlib` for rendering.
 
 ### Ecosystem Dynamics (`ecosystem_lv.py`)
 
